@@ -7,8 +7,7 @@ const { NotImplementedError } = require('../lib');
  */
 const chainMaker = {
   getLength() {
-    // Remove line below and write your code here
-    throw new NotImplementedError('Not implemented');
+    return 
   },
   addLink(/* value */) {
     // Remove line below and write your code here
